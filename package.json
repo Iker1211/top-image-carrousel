@@ -1,0 +1,22 @@
+{
+  "name": "top-image-carrousel",
+  "version": "1.0.0",
+  "description": "a simple image carrousel with HTML and CSS",
+  "main": "style.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iker1211/top-image-carrousel.git"
+  },
+  "keywords": [
+    "carrousel"
+  ],
+  "author": "iker vélez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iker1211/top-image-carrousel/issues"
+  },
+  "homepage": "https://github.com/Iker1211/top-image-carrousel#readme"
+}
